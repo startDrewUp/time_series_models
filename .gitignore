@@ -1,0 +1,15 @@
+# Ignore raw and processed data files
+/data/raw/
+/data/processed/
+
+# Ignore notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore virtual environments (if you make one later)
+venv/
+.env/
+
+# Ignore system junk (Mac and Windows)
+.DS_Store
+Thumbs.db
+
